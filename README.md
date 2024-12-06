@@ -1,4 +1,3 @@
-```markdown
 # Practical: Hash Table with Linear Probing
 
 ## 1. Task Description
